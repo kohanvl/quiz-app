@@ -1,0 +1,5 @@
+_backup
+.vscode/
+build/
+node_modules/
+.history/
